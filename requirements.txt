@@ -1,0 +1,4 @@
+pycryptodome>=3.20.0
+pyinstaller>=6.4.0
+--extra-index-url https://PySimpleGUI.net/install
+PySimpleGUI
